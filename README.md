@@ -1,5 +1,5 @@
 Implemented:
 
--Race condition showcase
--Mutual exclusion using mutex
--Mutual exclusion using synchronized keyword
+-Race condition showcase <br/>
+-Mutual exclusion using mutex <br/>
+-Mutual exclusion using synchronized keyword 
